@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 关于我
 
-- 🔭 当前专注于：  <img src="https://skillicons.dev/icons?i=java" height="28" /><img src="https://skillicons.dev/icons?i=spring" height="28" /><img src="https://skillicons.dev/icons?i=docker" height="28" /><img src="https://skillicons.dev/icons?i=mysql" height="28" /><img src="https://skillicons.dev/icons?i=redis" height="28" />
+- 🔭 当前专注于：  <img src="https://skillicons.dev/icons?i=java" height="28" />  <img src="https://skillicons.dev/icons?i=spring" height="28" />  <img src="https://skillicons.dev/icons?i=docker" height="28" />  <img src="https://skillicons.dev/icons?i=mysql" height="28" />  <img src="https://skillicons.dev/icons?i=redis" height="28" />
 
 - 🌱 正在学习：Golang、React、RAG...
 

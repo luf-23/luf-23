@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hi, I'm LUF-23</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;Always+learning+new+tech;Building+something+useful&font=Fira%20Code¢er=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-</p>
 
 ## 📊 GitHub 统计与语言排行
 

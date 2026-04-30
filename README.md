@@ -17,6 +17,6 @@
 
 - 🌱 正在学习：Golang、React、RAG...
 
-- 📫 如何联系我： [1](https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=3162794813@qq.com)
+- 📫 如何联系我： [![Email](https://img.shields.io/badge/-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white)](https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=3162794813@qq.com)
 
 - 😄 爱好：💻 Coding &nbsp;|&nbsp; 🎮 Gaming &nbsp;|&nbsp; 🧩 Algorithms

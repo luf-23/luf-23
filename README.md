@@ -15,7 +15,7 @@
 
 - 🔭 当前专注于：  <img src="https://skillicons.dev/icons?i=java" height="28" />  <img src="https://skillicons.dev/icons?i=spring" height="28" />  <img src="https://skillicons.dev/icons?i=docker" height="28" />  <img src="https://skillicons.dev/icons?i=mysql" height="28" />  <img src="https://skillicons.dev/icons?i=redis" height="28" />
 
-- 🌱 正在学习：Golang、React、RAG...
+- 🌱 正在学习：Golang、React、Eino
 
 - 📫 如何联系我： [![Email](https://img.shields.io/badge/-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white)](https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=3162794813@qq.com)
 

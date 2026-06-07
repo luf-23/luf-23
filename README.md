@@ -1,7 +1,7 @@
 ## 📊 GitHub 统计与语言排行
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luf-23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats-vercel-khaki.vercel.app/api/top-langs?username=luf-23&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 <p align="center">

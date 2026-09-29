@@ -55,6 +55,7 @@
 <div align="center">
 
   <img height="165" src="https://github-readme-stats-vercel-khaki.vercel.app/api?username=luf-23&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7c8db5&text_color=4f5d75&icon_color=f2a7b8" alt="GitHub Stats" />
+  
   <img height="165" src="https://github-readme-stats-vercel-khaki.vercel.app/api/top-langs?username=luf-23&layout=compact&hide_border=true&bg_color=ffffff&title_color=7c8db5&text_color=4f5d75" alt="Top Languages" />
 
 </div>
